@@ -1,6 +1,6 @@
 # Pkmsim
 
-Welcome to the Pkmsim project! It allows you to simulate a battle between two Pokémon with simplified mechanics. I made this website in one day, and you can take a look on [zepleen.github.io/pkmsim](https://zeplenn.github.io/pkmsim).
+Welcome to the Pkmsim project! It allows you to simulate a battle between two Pokémon with simplified mechanics. I made this website in one day, and you can take a look on [zeplenn.github.io/pkmsim](https://zeplenn.github.io/pkmsim).
 
 ## Description
 
